@@ -1,3 +1,4 @@
 languageCode = "en-us"
 title = "My New Hugo Site"
-baseURL = "http://example.org/"
+baseURL = "https://trendisima.github.io/hugo-wercker-example"
+theme = "herring-cove"
