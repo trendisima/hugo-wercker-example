@@ -1,3 +1,9 @@
+<p>+++ <br>
+date = “2017-04-06T11:24:21+02:00” <br>
+title = “Test with StackEdit” <br>
+draft = false <br>
++++</p>
+
 <h1 id="welcome-to-stackedit">Welcome to StackEdit!</h1>
 
 <p>Hey! I’m your first Markdown document in <strong>StackEdit</strong><a href="#fn:stackedit" id="fnref:stackedit" title="See footnote" class="footnote">1</a>. Don’t delete me, I’m very helpful! I can be recovered anyway in the <strong>Utils</strong> tab of the <i class="icon-cog"></i> <strong>Settings</strong> dialog.</p>
