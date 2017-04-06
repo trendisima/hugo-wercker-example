@@ -1,8 +1,8 @@
-<p>+++ <br>
-date = “2017-04-06T11:24:21+02:00” <br>
-title = “Test with StackEdit” <br>
-draft = false <br>
-+++</p>
++++ 
+date = “2017-04-06T11:24:21+02:00”
+title = “Test with StackEdit”
+draft = false
++++
 
 <h1 id="welcome-to-stackedit">Welcome to StackEdit!</h1>
 
