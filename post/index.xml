@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on My New Hugo Site</title>
+    <link>https://trendisima.github.io/hugo-wercker-example/post/</link>
+    <description>Recent content in Posts on My New Hugo Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 06 Apr 2017 10:24:21 +0200</lastBuildDate>
+    <atom:link href="https://trendisima.github.io/hugo-wercker-example/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Hola Mundo</title>
+      <link>https://trendisima.github.io/hugo-wercker-example/post/170406/</link>
+      <pubDate>Thu, 06 Apr 2017 10:24:21 +0200</pubDate>
+      
+      <guid>https://trendisima.github.io/hugo-wercker-example/post/170406/</guid>
+      <description>
+
+&lt;p&gt;Este es mi primer post. ¿Como se añaden imágenes aqui?&lt;/p&gt;
+
+&lt;p&gt;Hey! I&amp;rsquo;m your first Markdown document in &lt;strong&gt;StackEdit&lt;/strong&gt;[^stackedit]. Don&amp;rsquo;t delete me, I&amp;rsquo;m very helpful! I can be recovered anyway in the &lt;strong&gt;Utils&lt;/strong&gt; tab of the &lt;i class=&#34;icon-cog&#34;&gt;&lt;/i&gt; &lt;strong&gt;Settings&lt;/strong&gt; dialog.&lt;/p&gt;
+
+&lt;p&gt;Esta es una imagen de prueba&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/nars-laguna-bronzer-new-1491299357.jpg&#34; alt=&#34;enter image description here&#34; /&gt;
+&lt;/p&gt;
+
+&lt;h2 id=&#34;documents:dc6011956b82c3c94d66e1f91e90d946&#34;&gt;Documents&lt;/h2&gt;
+
+&lt;p&gt;StackEdit stores your documents in your browser, which means all your documents are automatically saved locally and are accessible &lt;strong&gt;offline!&lt;/strong&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;&lt;strong&gt;Note:&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;StackEdit is accessible offline after the application has been loaded for the first time.&lt;/li&gt;
+&lt;li&gt;Your local documents are not shared between different browsers or computers.&lt;/li&gt;
+&lt;li&gt;Clearing your browser&amp;rsquo;s data may &lt;strong&gt;delete all your local documents!&lt;/strong&gt; Make sure your documents are synchronized with &lt;strong&gt;Google Drive&lt;/strong&gt; or &lt;strong&gt;Dropbox&lt;/strong&gt; (check out the &lt;a href=&#34;#synchronization&#34;&gt;&lt;i class=&#34;icon-refresh&#34;&gt;&lt;/i&gt; Synchronization&lt;/a&gt; section).&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/blockquote&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
